@@ -1,0 +1,4 @@
+format=v1
+source=D:\models\KhmerLM\khmerLM\khmer_keyboard\model.msgpack
+prefix_rows=43794
+next_rows=989931

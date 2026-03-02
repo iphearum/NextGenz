@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG "CMakeFiles/nextgenz-daemon.dir/src/nextgenz_daemon.cpp.o" "CMakeFiles/nextgenz-daemon.dir/mnt/d/models/KhmerLM/nextgen/native/khmer_engine.cpp.o" -o nextgenz-daemon 

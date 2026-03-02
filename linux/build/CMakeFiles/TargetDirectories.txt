@@ -1,0 +1,3 @@
+/mnt/d/models/KhmerLM/NextGenz/linux/build/CMakeFiles/nextgenz-daemon.dir
+/mnt/d/models/KhmerLM/NextGenz/linux/build/CMakeFiles/edit_cache.dir
+/mnt/d/models/KhmerLM/NextGenz/linux/build/CMakeFiles/rebuild_cache.dir

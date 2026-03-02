@@ -1,0 +1,17 @@
+[Unit]
+Description=NextGenz Khmer Suggestion Daemon
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/opt/NextGenz/bin/nextgenz-daemon --model-dir /opt/NextGenz/model --socket /run/nextgenz/daemon.sock
+Restart=always
+RestartSec=2
+RuntimeDirectory=nextgenz
+RuntimeDirectoryMode=0755
+User=root
+Group=root
+
+[Install]
+WantedBy=multi-user.target
+

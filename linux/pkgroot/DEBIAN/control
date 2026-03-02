@@ -1,0 +1,10 @@
+Package: nextgenz
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: NextGenz <support@nextgenz.local>
+Depends: libc6 (>= 2.31)
+Description: NextGenz Khmer typing daemon
+ NextGenz Linux daemon for Khmer suggestion and next-word prediction.
+
