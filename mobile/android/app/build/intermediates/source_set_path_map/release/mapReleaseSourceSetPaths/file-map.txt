@@ -1,0 +1,7 @@
+com.nextgenz.keyboard.app-pngs-0 /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/build/generated/res/pngs/release
+com.nextgenz.keyboard.app-resValues-1 /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/build/generated/res/resValues/release
+com.nextgenz.keyboard.app-packageReleaseResources-2 /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.nextgenz.keyboard.app-packageReleaseResources-3 /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.nextgenz.keyboard.app-release-4 /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/build/intermediates/merged_res/release/mergeReleaseResources
+com.nextgenz.keyboard.app-main-5 /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/res
+com.nextgenz.keyboard.app-release-6 /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/release/res

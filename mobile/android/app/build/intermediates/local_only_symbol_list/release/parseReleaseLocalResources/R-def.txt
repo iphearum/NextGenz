@@ -1,0 +1,16 @@
+R_DEF: Internal format may change without notice
+local
+id keyboardView
+id openSettingsButton
+id suggestionRow
+id switchKeyboardButton
+layout activity_main
+layout ime_view
+string app_name
+string open_keyboard_settings
+string setup_desc
+string setup_title
+string subtype_khmer
+string switch_keyboard
+xml method
+xml qwerty

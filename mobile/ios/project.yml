@@ -1,0 +1,36 @@
+name: NextGenziOS
+options:
+  deploymentTarget:
+    iOS: "15.0"
+settings:
+  PRODUCT_BUNDLE_IDENTIFIER: com.nextgenz.keyboard
+targets:
+  NextGenzHostApp:
+    type: application
+    platform: iOS
+    sources:
+      - path: NextGenzHostApp
+      - path: Shared
+    settings:
+      base:
+        INFOPLIST_FILE: NextGenzHostApp/Info.plist
+        PRODUCT_BUNDLE_IDENTIFIER: com.nextgenz.keyboard.host
+        SWIFT_VERSION: "5.0"
+        TARGETED_DEVICE_FAMILY: "1,2"
+    dependencies:
+      - target: NextGenzKeyboard
+        embed: false
+  NextGenzKeyboard:
+    type: app-extension
+    platform: iOS
+    sources:
+      - path: NextGenzKeyboard
+      - path: Shared
+    settings:
+      base:
+        INFOPLIST_FILE: NextGenzKeyboard/Info.plist
+        PRODUCT_BUNDLE_IDENTIFIER: com.nextgenz.keyboard.extension
+        SWIFT_VERSION: "5.0"
+        TARGETED_DEVICE_FAMILY: "1,2"
+        GENERATE_INFOPLIST_FILE: NO
+

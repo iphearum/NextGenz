@@ -4,6 +4,8 @@ NextGenz provides Khmer typing suggestions and next-word prediction.
 
 - Windows: tray application (`setup.exe` / `uninstall.exe`)
 - Linux: daemon + Debian package (`.deb`)
+- Android: Khmer-only IME keyboard starter project
+- iOS: keyboard extension starter (XcodeGen project spec)
 
 ## Features
 
@@ -89,10 +91,11 @@ Response format:
 
 - `NextGenz/` Windows release package
 - `NextGenz/linux/` Linux daemon + deb packaging
+- `NextGenz/mobile/android/` Android keyboard starter app
+- `NextGenz/mobile/ios/` iOS keyboard starter app/extension
 - `nextgen/native/` shared native engine source
 
 ## Notes
 
 - Linux package does not auto-start service after install.
 - For Windows, ensure all files under `NextGenz/payload` are kept together.
-

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.nextgenz.keyboard.app-release-4:/xml_qwerty.xml.flat",
+        "source": "com.nextgenz.keyboard.app-main-5:/xml/qwerty.xml"
+    },
+    {
+        "merged": "com.nextgenz.keyboard.app-release-4:/xml_method.xml.flat",
+        "source": "com.nextgenz.keyboard.app-main-5:/xml/method.xml"
+    },
+    {
+        "merged": "com.nextgenz.keyboard.app-release-4:/layout_ime_view.xml.flat",
+        "source": "com.nextgenz.keyboard.app-main-5:/layout/ime_view.xml"
+    },
+    {
+        "merged": "com.nextgenz.keyboard.app-release-4:/layout_activity_main.xml.flat",
+        "source": "com.nextgenz.keyboard.app-main-5:/layout/activity_main.xml"
+    }
+]

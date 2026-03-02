@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/mnt/d/models/KhmerLM/NextGenz/mobile/android/app"
+    name=":app"
+    type="APP"
+    maven="NextGenzKeyboard:app:unspecified"
+    agpVersion="8.7.3"
+    buildFolder="build"
+    bootClassPath="/usr/lib/android-sdk/platforms/android-30/android.jar:/usr/lib/android-sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-30"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

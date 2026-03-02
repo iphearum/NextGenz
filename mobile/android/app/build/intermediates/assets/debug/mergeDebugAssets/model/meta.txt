@@ -1,0 +1,13 @@
+format=v1
+source=D:\models\KhmerLM\khmerLM\khmer_keyboard\model.msgpack
+prefix_top_n=6
+next_top_n=5
+prefix_max_len=5
+max_unigram_words=25000
+max_trigram_keys=80000
+max_bigram_keys=30000
+min_unigram_score=0.0
+min_pair_score=0.0
+khmer_only=True
+prefix_rows=11662
+next_rows=75293

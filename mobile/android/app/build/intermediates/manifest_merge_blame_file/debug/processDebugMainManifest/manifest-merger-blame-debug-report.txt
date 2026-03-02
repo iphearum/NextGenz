@@ -1,0 +1,65 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.nextgenz.keyboard"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="30" />
+10
+11    <application
+11-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:4:5-30:19
+12        android:allowBackup="true"
+12-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:5:9-35
+13        android:debuggable="true"
+14        android:extractNativeLibs="true"
+15        android:label="@string/app_name"
+15-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:6:9-41
+16        android:supportsRtl="true"
+16-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:7:9-35
+17        android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar" >
+17-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:8:9-77
+18        <activity
+18-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:10:9-17:20
+19            android:name="com.nextgenz.keyboard.MainActivity"
+19-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:11:13-41
+20            android:exported="true" >
+20-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:12:13-36
+21            <intent-filter>
+21-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:13:13-16:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:14:17-69
+22-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:14:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:15:17-77
+24-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:15:27-74
+25            </intent-filter>
+26        </activity>
+27
+28        <service
+28-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:19:9-29:19
+29            android:name="com.nextgenz.keyboard.KhmerImeService"
+29-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:20:13-44
+30            android:exported="true"
+30-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:22:13-36
+31            android:permission="android.permission.BIND_INPUT_METHOD" >
+31-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:21:13-70
+32            <intent-filter>
+32-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:23:13-25:29
+33                <action android:name="android.view.InputMethod" />
+33-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:24:17-67
+33-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:24:25-64
+34            </intent-filter>
+35
+36            <meta-data
+36-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:26:13-28:50
+37                android:name="android.view.im"
+37-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:27:17-47
+38                android:resource="@xml/method" />
+38-->/mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:28:17-47
+39        </service>
+40    </application>
+41
+42</manifest>

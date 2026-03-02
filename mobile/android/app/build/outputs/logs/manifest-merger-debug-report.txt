@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		INJECTED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:4:5-30:19
+INJECTED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:4:5-30:19
+	android:extractNativeLibs
+		INJECTED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml
+	android:supportsRtl
+		ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:7:9-35
+	android:label
+		ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:6:9-41
+	android:allowBackup
+		ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:8:9-77
+activity#com.nextgenz.keyboard.MainActivity
+ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:10:9-17:20
+	android:exported
+		ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:11:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:15:27-74
+service#com.nextgenz.keyboard.KhmerImeService
+ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:19:9-29:19
+	android:exported
+		ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:22:13-36
+	android:permission
+		ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:21:13-70
+	android:name
+		ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:20:13-44
+intent-filter#action:name:android.view.InputMethod
+ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:23:13-25:29
+action#android.view.InputMethod
+ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:24:17-67
+	android:name
+		ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:24:25-64
+meta-data#android.view.im
+ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:26:13-28:50
+	android:resource
+		ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:28:17-47
+	android:name
+		ADDED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml:27:17-47
+uses-sdk
+INJECTED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /mnt/d/models/KhmerLM/NextGenz/mobile/android/app/src/main/AndroidManifest.xml

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/winos/.gradle/daemon/8.9/com.nextgenz.keyboard.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "/home/winos/.gradle/daemon/8.9/com.nextgenz.keyboard.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.nextgenz.keyboard.app-debug-4:/layout_ime_view.xml.flat",
+        "source": "com.nextgenz.keyboard.app-main-6:/layout/ime_view.xml"
+    },
+    {
+        "merged": "/home/winos/.gradle/daemon/8.9/com.nextgenz.keyboard.app-debug-4:/xml_method.xml.flat",
+        "source": "/home/winos/.gradle/daemon/8.9/com.nextgenz.keyboard.app-main-6:/xml/method.xml"
+    },
+    {
+        "merged": "/home/winos/.gradle/daemon/8.9/com.nextgenz.keyboard.app-debug-4:/layout_ime_view.xml.flat",
+        "source": "/home/winos/.gradle/daemon/8.9/com.nextgenz.keyboard.app-main-6:/layout/ime_view.xml"
+    },
+    {
+        "merged": "/home/winos/.gradle/daemon/8.9/com.nextgenz.keyboard.app-debug-4:/xml_qwerty.xml.flat",
+        "source": "/home/winos/.gradle/daemon/8.9/com.nextgenz.keyboard.app-main-6:/xml/qwerty.xml"
+    }
+]

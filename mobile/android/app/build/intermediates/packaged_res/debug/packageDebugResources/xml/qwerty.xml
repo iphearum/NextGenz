@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    android:horizontalGap="0dp"
+    android:keyHeight="52dp"
+    android:keyWidth="10%p"
+    android:verticalGap="0dp">
+
+    <Row>
+        <Key android:codes="6016" android:keyLabel="&#x1780;" />
+        <Key android:codes="6017" android:keyLabel="&#x1781;" />
+        <Key android:codes="6018" android:keyLabel="&#x1782;" />
+        <Key android:codes="6019" android:keyLabel="&#x1783;" />
+        <Key android:codes="6020" android:keyLabel="&#x1784;" />
+        <Key android:codes="6021" android:keyLabel="&#x1785;" />
+        <Key android:codes="6022" android:keyLabel="&#x1786;" />
+        <Key android:codes="6023" android:keyLabel="&#x1787;" />
+        <Key android:codes="6024" android:keyLabel="&#x1788;" />
+        <Key android:codes="6025" android:keyLabel="&#x1789;" />
+    </Row>
+    <Row>
+        <Key android:codes="6031" android:keyLabel="&#x178F;" android:keyWidth="11%p" />
+        <Key android:codes="6032" android:keyLabel="&#x1790;" android:keyWidth="11%p" />
+        <Key android:codes="6033" android:keyLabel="&#x1791;" android:keyWidth="11%p" />
+        <Key android:codes="6034" android:keyLabel="&#x1792;" android:keyWidth="11%p" />
+        <Key android:codes="6035" android:keyLabel="&#x1793;" android:keyWidth="11%p" />
+        <Key android:codes="6036" android:keyLabel="&#x1794;" android:keyWidth="11%p" />
+        <Key android:codes="6037" android:keyLabel="&#x1795;" android:keyWidth="11%p" />
+        <Key android:codes="6038" android:keyLabel="&#x1796;" android:keyWidth="11%p" />
+        <Key android:codes="6039" android:keyLabel="&#x1797;" android:keyWidth="11%p" />
+    </Row>
+    <Row>
+        <Key android:codes="6040" android:keyLabel="&#x1798;" android:keyWidth="13%p" />
+        <Key android:codes="6041" android:keyLabel="&#x1799;" android:keyWidth="13%p" />
+        <Key android:codes="6042" android:keyLabel="&#x179A;" android:keyWidth="13%p" />
+        <Key android:codes="6043" android:keyLabel="&#x179B;" android:keyWidth="13%p" />
+        <Key android:codes="6044" android:keyLabel="&#x179C;" android:keyWidth="13%p" />
+        <Key android:codes="6047" android:keyLabel="&#x179F;" android:keyWidth="13%p" />
+        <Key android:codes="6048" android:keyLabel="&#x17A0;" android:keyWidth="13%p" />
+        <Key android:codes="-5" android:keyIcon="@android:drawable/ic_input_delete" android:keyWidth="9%p" />
+    </Row>
+    <Row>
+        <Key android:codes="32" android:keyLabel="space" android:keyWidth="70%p" />
+        <Key android:codes="10" android:keyLabel="enter" android:keyWidth="30%p" />
+    </Row>
+</Keyboard>

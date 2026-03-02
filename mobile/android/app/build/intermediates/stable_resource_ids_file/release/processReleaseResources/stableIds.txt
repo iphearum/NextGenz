@@ -1,0 +1,14 @@
+com.nextgenz.keyboard:xml/qwerty = 0x7f040001
+com.nextgenz.keyboard:xml/method = 0x7f040000
+com.nextgenz.keyboard:string/switch_keyboard = 0x7f030005
+com.nextgenz.keyboard:string/setup_title = 0x7f030003
+com.nextgenz.keyboard:string/setup_desc = 0x7f030002
+com.nextgenz.keyboard:layout/activity_main = 0x7f020000
+com.nextgenz.keyboard:string/subtype_khmer = 0x7f030004
+com.nextgenz.keyboard:string/app_name = 0x7f030000
+com.nextgenz.keyboard:layout/ime_view = 0x7f020001
+com.nextgenz.keyboard:id/openSettingsButton = 0x7f010001
+com.nextgenz.keyboard:id/switchKeyboardButton = 0x7f010003
+com.nextgenz.keyboard:string/open_keyboard_settings = 0x7f030001
+com.nextgenz.keyboard:id/suggestionRow = 0x7f010002
+com.nextgenz.keyboard:id/keyboardView = 0x7f010000
